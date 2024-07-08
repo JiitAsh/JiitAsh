@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Jitesh Kumawat, a final year student at IIIT Bhopal pursuing B.Tech in Information Technology.
-
+- Final Year Student at IIIT Bhopal.
+- B.Tech in Information Technology.
+- Mobile Application Development(Kotlin).
+- Data Structures & Algorithms (C++).
