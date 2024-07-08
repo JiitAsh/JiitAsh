@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 - B.Tech in Information Technology.
 - Mobile Application Development (Kotlin).
 - Data Structures & Algorithms (C++).
+
+
+__Coding Profiles__
+- LeetCode:  https://leetcode.com/JiitAsh/
