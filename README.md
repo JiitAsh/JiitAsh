@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - Final Year Student at IIIT Bhopal.
 - B.Tech in Information Technology.
-- Mobile Application Development(Kotlin).
+- Mobile Application Development (Kotlin).
 - Data Structures & Algorithms (C++).
