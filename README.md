@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Jitesh Kumawat, a final year student at IIIT Bhopal pursuing B.Tech in Information Technology.
+
