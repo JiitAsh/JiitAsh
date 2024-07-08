@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 
 __Coding Profiles__
-- LeetCode:  https://leetcode.com/JiitAsh/
+- [LeetCode](https://leetcode.com/JiitAsh/)
+- [GeeksForGeeks](http://rb.gy/3nw8v)
+- [Codolio](https://codolio.com/profile/JiitAsh)
