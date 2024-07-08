@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Final Year Student at IIIT Bhopal.
-- B.Tech in Information Technology.
-- Mobile Application Development (Kotlin).
-- Data Structures & Algorithms (C++).
+- Final Year Student at IIIT Bhopal
+- B.Tech in Information Technology
+- Mobile Application Development (Kotlin)
+- Data Structures & Algorithms (C++)
+- C/C++, Kotlin, Python
 
 
 
