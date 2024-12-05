@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - B.Tech in Information Technology (From IIIT Bhopal, India)
 - Mobile Application Development (Kotlin)
 - Data Structures & Algorithms (C++)
-- C/C++, Kotlin, Python
+- C/C++, Kotlin, Java
+- HTML, CSS, JavaScript
 
 
 
