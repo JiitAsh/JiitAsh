@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Backend (Java)
 - Java Spring Boot
 - Mobile Application Development (Kotlin)
-- Data Structures & Algorithms (C++)
+- Data Structures & Algorithms
 - C/C++, C#, Kotlin, Java
 - HTML, CSS, JavaScript
 
