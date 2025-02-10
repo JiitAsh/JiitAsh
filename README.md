@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - B.Tech in Information Technology (From IIIT Bhopal, India)
+- Backend (Java)
+- Java Spring Boot
 - Mobile Application Development (Kotlin)
 - Data Structures & Algorithms (C++)
-- C/C++, Kotlin, Java
+- C/C++, C#, Kotlin, Java
 - HTML, CSS, JavaScript
 
 
