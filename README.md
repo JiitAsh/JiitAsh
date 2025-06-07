@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Data Structures & Algorithms
 - C/C++, C#, Kotlin, Java
 - HTML, CSS, JavaScript, Typescript
-- AngularJS
+- Angular
 
 
 
