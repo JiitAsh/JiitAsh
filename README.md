@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - Mobile Application Development (Kotlin)
 - Data Structures & Algorithms
 - C/C++, C#, Kotlin, Java
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Typescript
+- AngularJS
 
 
 
