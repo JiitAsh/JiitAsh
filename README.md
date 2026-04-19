@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- B.Tech in Information Technology (From IIIT Bhopal, India)
+- B.Tech in Information Technology (IIIT Bhopal, India)
 - Backend (Java)
+- Frontend (Angular)
 - Java Spring Boot
 - Mobile Application Development (Kotlin)
 - Data Structures & Algorithms
-- C/C++, C#, Kotlin, Java
+- C/C++, Kotlin, Java
 - HTML, CSS, JavaScript, Typescript
-- Angular
+- Angular, React
+- MySQL, MongoDB
 
 
 
